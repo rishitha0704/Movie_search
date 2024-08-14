@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  background-image: linear-gradient(to right, pink, skyblue);
+  min-height: 100vh;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: pink;
+  border: solid pink 2px;
+  border-radius: 5px;
+  outline: thick;
+  cursor: pointer;
+}
+
+.articles {
+  margin-top: 20px;
+}
+
+.article {
+  margin-bottom: 20px;
+}
+
+.error {
+  color: red;
+}
